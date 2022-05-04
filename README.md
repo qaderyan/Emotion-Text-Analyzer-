@@ -79,5 +79,5 @@ All the credits to [Rohin](https://github.com/rohinqaderyan)
 
 ## Where to find me ?
 
-- [LinkedIn](https://www.linkedin.com/in/rohin-qaderyan/) 
+- [LinkedIn](https://www.linkedin.com/in/rohinqaderyan/) 
 - rohin.aryain(at)gmail.com
