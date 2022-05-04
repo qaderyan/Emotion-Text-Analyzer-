@@ -75,14 +75,9 @@ Have something to add to the source code to make it more legit;
 
 ## Credits
 
-All the credits to [Kalebu](https://github.com/Kalebu)
+All the credits to [Rohin](https://github.com/rohinqaderyan)
 
 ## Where to find me ?
 
-- [Personal Blog](https://kalebujordan.dev/)
-- [Telegram](https://t.me/kalebujordan) 
-- [LinkedIn](https://www.linkedin.com/in/kalebu-gwalugano/) 
-- [Twitter](https://twitter.com/j_kalebu) 
-- [Instagram](https://www.instagram.com/kalebu_jordan/) 
-- [Facebook](https://web.facebook.com/kalebu.jordan)
-- isaackeinstein(at)gmail.com
+- [LinkedIn](https://www.linkedin.com/in/rohin-qaderyan/) 
+- rohin.aryain(at)gmail.com
